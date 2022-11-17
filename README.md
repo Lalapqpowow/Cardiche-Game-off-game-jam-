@@ -6,7 +6,7 @@
 
 - The game was made using GameMaker Studio 2 using GameMaker programming language
 
-- Expect bugs, this is myn first time making a game with GameMaker Studio 2.
+- Expect bugs, this is my first time making a game with GameMaker Studio 2.
 
 - This game will be updated, and maybe, just MAYBE, I'll realease it to more platforms, add lore, make a final game and not just a silly little rage game ;)
 
